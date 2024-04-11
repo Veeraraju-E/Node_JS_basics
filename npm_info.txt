@@ -1,0 +1,9 @@
+1. npm -> node package manager
+2. A package is any piece of reusable JS code
+3. modules, depedencies etc
+4. downloaded as part of node download
+5. downloadable as a local depedency(more used) or a global depedency
+6. package.json -> it's a manifest file that stores important information about our project -> call npm init
+npm init -y (for all default)
+                -> this is stored as a package
+7. check out the node_modules folder, upon installing some dependency like lodash

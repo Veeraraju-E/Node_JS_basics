@@ -1,0 +1,1 @@
+This file would explain how we can share code using package.json and why it is important
